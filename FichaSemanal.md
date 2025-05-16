@@ -261,7 +261,7 @@
     <td></td>
   </tr>
     <td>VIERNES</td>
-    <td>Continuación de solución de errores en la página web de edición de imágenes.</td>
+    <td>Continuación de solución de errores en la página web de edición de imágenes + ayuda a una profesora con la memoria de su teléfono móvil.</td>
     <td>6:30</td>
     <td></td>
   </tr>
