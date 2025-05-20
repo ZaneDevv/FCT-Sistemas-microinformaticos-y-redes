@@ -283,7 +283,7 @@
     <td></td>
   </tr>
     <td>MARTES</td>
-    <td>Continuació de la página web de edición de imágenes: mejora del sistema de escalado (ahora es mucho más fácil de utilizar)</td>
+    <td>Continuació de la página web de edición de imágenes: mejora del sistema de escalado (ahora es mucho más fácil de utilizar), solución de errores.</td>
     <td>6:30</td>
     <td></td>
   </tr>
