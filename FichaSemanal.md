@@ -288,7 +288,7 @@
     <td></td>
   </tr>
     <td>MIÉRCOLES</td>
-    <td></td>
+    <td>Practicamente finalización de la página web de edición de imágenes: ya se puede hacer de todo e incluso presenciar la imagen a pantalla completa: Solo falta arreglar un par de bugs en el sistema de Undo-Redo.</td>
     <td>6:30</td>
     <td></td>
   </tr>
