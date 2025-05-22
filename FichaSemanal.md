@@ -294,7 +294,7 @@
   </tr>
   <tr>
     <td>JUEVES</td>
-    <td>Añadiendo ligeros detalles a la página web de edición de imágenes + investigación para añadir un sistema de guardado.</td>
+    <td>Añadiendo ligeros detalles a la página web de edición de imágenes + investigación para añadir un sistema de guardado. -> Empezado del sistema de galería.</td>
     <td>6:30</td>
     <td></td>
   </tr>
