@@ -299,7 +299,7 @@
     <td></td>
   </tr>
     <td>VIERNES</td>
-    <td></td>
+    <td>Continuación de la página web de edición de imágenes añadiendo mejoras a la página de la galería.</td>
     <td>6:30</td>
     <td></td>
   </tr>
