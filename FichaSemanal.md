@@ -316,7 +316,7 @@
   </thead>
   <tr>
     <td>LUNES</td>
-    <td></td>
+    <td>Continuación de la página web de edición de imágenes: sistema de galería ya utilizable.</td>
     <td>6:30</td>
     <td></td>
   </tr>
