@@ -279,7 +279,7 @@
   <tr>
     <td>LUNES</td>
     <td>Continuación de la página web de edición de imágenes añadiendo botones de Undo-Redo, mejora del sistema de escalado.</td>
-    <td>6:30</td>
+    <td>6:15</td>
     <td></td>
   </tr>
     <td>MARTES</td>
