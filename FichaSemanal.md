@@ -321,7 +321,7 @@
     <td></td>
   </tr>
     <td>MARTES</td>
-    <td></td>
+    <td>Continuación de la página web de edición de imágenes: sistema de nombres añadido con los que se puede guardar de una forma más ordenada y personal.</td>
     <td>6:30</td>
     <td></td>
   </tr>
