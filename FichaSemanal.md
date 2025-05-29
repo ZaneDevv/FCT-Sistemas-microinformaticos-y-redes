@@ -332,7 +332,7 @@
   </tr>
   <tr>
     <td>JUEVES</td>
-    <td>Preparación de nuevo ordenador en sala de 2º DAW: montaje de equipo e instalación de herramientas.</td>
+    <td>Preparación de nuevo ordenador en sala de 2º DAW: montaje de equipo e instalación de herramientas y continuación de la página web de edición de imágenes arreglando problemas en la galería.</td>
     <td>6:30</td>
     <td></td>
   </tr>
