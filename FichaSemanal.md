@@ -327,12 +327,12 @@
   </tr>
     <td>MIÉRCOLES</td>
     <td>Continuación de la página web de edición de imágenes con un sistema de notificaciones para avisar de cuándo se puede o no guardar una imagen y solución de errores.</td>
-    <td>6:30</td>
+    <td>4:30</td>
     <td></td>
   </tr>
   <tr>
     <td>JUEVES</td>
-    <td></td>
+    <td>Preparación de nuevo ordenador en sala de 2º DAW: montaje de equipo e instalación de herramientas.</td>
     <td>6:30</td>
     <td></td>
   </tr>
