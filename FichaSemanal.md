@@ -337,7 +337,7 @@
     <td></td>
   </tr>
     <td>VIERNES</td>
-    <td></td>
+    <td>Continuación de la página web de edición de imágenes haciéndola completamente idependiente de la conexión (en caso de tener la página en el dispositovo local correspondiente) y solucionando problemas varios que han ido surgiendo durante el desarrollo.</td>
     <td>6:30</td>
     <td></td>
   </tr>
