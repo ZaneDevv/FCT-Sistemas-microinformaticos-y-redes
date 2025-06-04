@@ -354,17 +354,17 @@
   </thead>
   <tr>
     <td>LUNES</td>
-    <td>Día no asistido por enfermedad</td>
+    <td>Día no asistido por enfermedad.</td>
     <td>6:30</td>
     <td></td>
   </tr>
     <td>MARTES</td>
-    <td>Día no asistido por enfermedad</td>
+    <td>Día no asistido por enfermedad.</td>
     <td>6:30</td>
     <td></td>
   </tr>
     <td>MIÉRCOLES</td>
-    <td></td>
+    <td>Día no asistido por enfermedad.</td>
     <td>6:30</td>
     <td></td>
   </tr>
